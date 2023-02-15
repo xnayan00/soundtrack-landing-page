@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
+
+p {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--grey-color);
+}
+
+h1 {
+    color: var(--primary-color);
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+h3 {
+    color: var(--primary-color);
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+h5 {
+    color: var(--primary-color);
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+h6 {
+    color: var(--primary-color);
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+small {
+    color: var(--grey-color);
+    font-size: 0.7rem;
+    font-weight: 600;
+}
